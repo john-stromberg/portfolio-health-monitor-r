@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [quant-research-r/projects/portfolio-health-monitor-r](https://github.com/john-stromberg/quant-research-r/tree/main/projects/portfolio-health-monitor-r).
+> This repository is retained as a historical snapshot.
+
+---
+
 # portfolio-health-monitor-r
 
 R project for portfolio monitoring, attribution, and alerting using a FRED + CSV data workflow.
